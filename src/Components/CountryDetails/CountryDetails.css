@@ -1,0 +1,14 @@
+.details-box{
+    border: 2px solid purple;
+    width: 70%;
+    text-align: center;
+    justify-content: center;
+}
+.main-box{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.flag{
+    width: 70%;
+}
